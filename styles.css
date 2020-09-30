@@ -41,7 +41,7 @@ body {
 
 .contenedor .sidebar {
 	grid-column: 3 / 4;
-	background: #fAA43D;
+	background: #3B83BD;
 	text-align: center;
 	display: flex;
 	align-items: center;
@@ -136,7 +136,7 @@ body {
 
 }
 .buttom:hover{
-  color: #1883ba;
+  color: #093347;
   background-color: #ffffff;
 }
 
